@@ -1,6 +1,6 @@
 # **Virtual Box Installation**
 
-## **Windows**
+## **Windows 10+**
 
 ### *Preliminary Steps*
 
@@ -36,3 +36,5 @@ Cannot detect .vdi image
 ## **Resources**
 
 [VirtualBox Download](https://www.virtualbox.org/)
+
+[Helpful Video](https://www.youtube.com/watch?v=fVYwt1Tluug)
