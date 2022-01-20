@@ -4,7 +4,7 @@
 
 ### *Preliminary Steps*
 
-1. Download VirtualBox onto your machine
+1. Download VirtualBox onto your machine (*Used VirtualBox 6.1*)
 2. Install VirtualBox onto your machine
 
 
@@ -33,7 +33,6 @@
 
 Cannot detect .vdi image for importing
 - check if its a .zip file
-- check if its in the right folder
 
 
 ## **Resources**
